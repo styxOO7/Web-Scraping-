@@ -12,3 +12,6 @@ Scraped the table that comes after searching and stored it in dataframe and subs
 POINTS
 Paginated and scraped all values. </br>
 Cleaned and make data uniform (area units converted into same unit - sq. ft.) </br>
+
+NOTE:
+After failure of consecutive wrong captcha detection, site gets retraced to main dashboard. In that case, we must need to re run the code. 
